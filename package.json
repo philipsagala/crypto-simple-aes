@@ -1,0 +1,14 @@
+{
+  "name": "@crypto-aes/crypto-aes-simple",
+  "version": "1.0.0",
+  "description": "Package for simple use of aes-256-cbc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "author": "Philip Sagala <philipsagala@gmail.com>",
+  "license": "ISC"
+}
